@@ -1,6 +1,6 @@
 <?php
 
-require_once "./classes/movie.php";
+require_once "./classi/movie.php";
 
 
 $myFirstMovie = new Movie("La Vita è Bella","vita",125,"Roberto Benigni");
